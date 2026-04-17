@@ -39,7 +39,7 @@ All you have to do to install our snippets is to copy and paste the code found m
 https://ks-snippets.myshopify.com
 
 ## Downloads
-https://www.falcontheme.com/collections/shopify-snippets
+http://kondasoft.com/snippets
 
 ## YouTube video playlist
 https://www.youtube.com/playlist?list=PLkahmWw6Mp_WU1VQcbJLcx-75Is8oU4LK
